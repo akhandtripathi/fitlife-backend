@@ -1,0 +1,10 @@
+package com.fitlife.fitlife_backend;
+
+@RestController
+@RequestMapping("/api/test")
+public class TestController {
+    @GetMapping("/hello")
+    public String hello() {
+        return "Hello, FitLife is up!";
+    }
+}

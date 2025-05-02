@@ -1,0 +1,5 @@
+package com.fitlife.fitlife_backend.Controller;
+
+public class UserController {
+
+}

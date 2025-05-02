@@ -1,0 +1,10 @@
+spring.application.name=fitlife-backend
+# Database config
+spring.datasource.url=jdbc:mysql://localhost:3306/fitlife
+spring.datasource.username=root
+spring.datasource.password=your_password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+# Server config
+server.port=8080

@@ -1,0 +1,5 @@
+package com.fitlife.fitlife_backend.Service;
+
+public class UserService {
+
+}
